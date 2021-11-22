@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adebolap
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning python programmins
 - 💞️ I’m looking to collaborate on data analytics for supply chain and logisitics projects
 - 📫 How to reach me: adebolap@gmail.com
 
