@@ -1,7 +1,7 @@
 # Hi, I'm Oluwaseun Olufemi Adebola
 - 🔍 Data Quality Analyst | AI & Machine Learning Enthusiast
 - 📍 Belgium
-- 🌐 [LinkedIn](https://linkedin.com/in/seun-adebola) | [Portfolio](https://your-portfolio-link.com)
+- 🌐 [LinkedIn](https://linkedin.com/in/seun-adebola)
 
 ## Pinned Repositories
 ### [Data-Quality-Improvement](https://github.com/adebolap/Data-Quality-Improvement)
